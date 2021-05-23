@@ -660,7 +660,7 @@ a {
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 36px;
 }
 
 .hero-bloc-text-sub {
@@ -754,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(135, 120, 78, 1);
+    background-color: rgba(0, 0, 0, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
