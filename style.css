@@ -91,7 +91,8 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.png");
+    /* texture paper makes the site difficult to read */
+    /* background: url("img/texture-paper.png"); */
     background-size: 280px 280px;
 }
 
@@ -476,7 +477,7 @@ button {
 }
 
 .icon-md {
-    font-size: 30px!important;
+    font-size: 50px!important;
 }
 
 .icon-lg {
@@ -677,12 +678,12 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 20px;
 }
 
 .tight-width-whitespace {
     max-width: 600px;
-    margin: auto auto auto auto;
+    margin: auto;
 }
 
 .h1 {
@@ -753,7 +754,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(135, 120, 78, 1);
     padding: 40px 40px 40px 40px;
 }
 
@@ -771,15 +772,15 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #ed6525;
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFF!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
+    background: #ed6525;
     color: #FFFFFF!important;
 }
 
