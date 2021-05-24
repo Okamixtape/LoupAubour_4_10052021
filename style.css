@@ -678,7 +678,11 @@ a {
 }
 
 p {
-    font-size: 20px;
+    font-size: 18px;
+    text-align: center;
+    color: #FFF;
+    border-radius: 10px;
+    padding: 0.3em;
 }
 
 .tight-width-whitespace {
@@ -739,6 +743,8 @@ h4 {
 .white {
     color: #FFFFFF!important;
     font-weight: bold;
+    padding: 0.3em;
+    margin-bottom: 1em;
 }
 
 .portfolio-thumb {
@@ -780,6 +786,11 @@ h4 {
     color: #FFF!important;
 }
 
+.tc-white-background-color {
+    color: #FFF!important;
+    background: #ed3325;
+    font-weight: bold;
+}
 .btn-atomic-tangerine {
     background: #ed3325;
     color: #FFF!important;
