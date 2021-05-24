@@ -745,6 +745,7 @@ h4 {
     font-weight: bold;
     padding: 0.3em;
     margin-bottom: 1em;
+    text-shadow: 1.5px 1.5px black;
 }
 
 .portfolio-thumb {
@@ -790,6 +791,7 @@ h4 {
     color: #FFF!important;
     background: #ed3325;
     font-weight: bold;
+    text-shadow: 1.5px 1.5px black;
 }
 .btn-atomic-tangerine {
     background: #ed3325;
