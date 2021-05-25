@@ -745,16 +745,17 @@ h4 {
     font-weight: bold;
     padding: 0.3em;
     margin-bottom: 1em;
-    text-shadow: 1.5px 1.5px black;
 }
 
 .portfolio-thumb {
-    margin-bottom: 24px;
+    margin: 15px auto 20px auto;
+    width: 100%;
+    height: auto;
 }
 
 .portfolio-row {
-    margin-bottom: 44px;
-    margin-top: 50px;
+    margin-bottom: 20px;
+    margin-top: 25px;
 }
 
 .avatar {
@@ -785,18 +786,24 @@ h4 {
 
 .tc-white {
     color: #FFF!important;
+    font-weight: bold;
+}
+
+.form-title {
+    margin-top: 0px;
+    margin-bottom: 19px;
+    text-align: center;
 }
 
 .tc-white-background-color {
     color: #FFF!important;
     background: #ed3325;
     font-weight: bold;
-    text-shadow: 1.5px 1.5px black;
 }
 .btn-atomic-tangerine {
     background: #ed3325;
     color: #FFF!important;
-    font-size: 1.6em;
+    font-size: 1.1em;
 }
 
 .btn-atomic-tangerine:hover {
@@ -920,6 +927,9 @@ h4 {
     #disqus_thread {
         padding-left: 10px!important;
         padding-right: 10px!important;
+        margin-left: 10px;
+        margin-right: 10px;
+        margin-top: 25px;
     }
     .b-parallax {
         background-attachment: scroll;
@@ -1028,6 +1038,8 @@ h4 {
     }
     form {
         padding: 5px;
+        padding-right: 10px;
+        padding-left: 10px;
     }
     .close-lightbox {
         display: inline-block;
