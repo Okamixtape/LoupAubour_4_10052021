@@ -573,7 +573,7 @@ a[data-lightbox]:hover img {
 }
 
 #lightbox-modal .modal-dialog img {
-    max-height: 90vh;
+    max-height: 46vh;
     margin: 0 auto;
 }
 
@@ -631,11 +631,12 @@ a[data-lightbox]:hover img {
 }
 
 .snapshot-lb .modal-body {
-    padding-bottom: 45px;
+    padding-bottom: 30px;
 }
 
 .snapshot-lb .lightbox-caption {
-    padding: 0;
+    position: initial;
+    padding: 15px;
     color: rgba(0, 0, 0, .5);
     background: none;
 }
