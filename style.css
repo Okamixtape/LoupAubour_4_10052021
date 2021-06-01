@@ -135,6 +135,7 @@ a:hover {
 .d-bloc h6 a,
 .d-bloc p a {
     color: rgba(255, 255, 255, .6);
+    font-weight: bold;
 }
 
 .d-bloc .a-btn:hover,
@@ -653,7 +654,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #000000!important;
+    color: #333333!important;
 }
 
 .container {
@@ -679,7 +680,7 @@ a {
 }
 
 p {
-    font-size: 18px;
+    font-size: 14px;
     text-align: center;
     color: #FFF;
     border-radius: 10px;
@@ -742,8 +743,14 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #FFF!important;
     font-weight: bold;
+    padding: 0.3em;
+    margin-bottom: 1em;
+}
+
+.black {
+    color: #333333!important;
     padding: 0.3em;
     margin-bottom: 1em;
 }
@@ -782,12 +789,16 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #ed6525;
+    background-color: #f3976c;
 }
 
 .tc-white {
     color: #FFF!important;
     font-weight: bold;
+}
+
+.tc-black {
+    color: #333333!important;
 }
 
 .form-title {
@@ -797,13 +808,13 @@ h4 {
 }
 
 .tc-white-background-color {
-    color: #FFF!important;
-    background: #ed3325;
+    color: #333333!important;
+    background: #f3976c;
     font-weight: bold;
 }
 .btn-atomic-tangerine {
-    background: #ed3325;
-    color: #FFF!important;
+    background: #f3976c;
+    color: #333333!important;
     font-size: 1.1em;
 }
 
