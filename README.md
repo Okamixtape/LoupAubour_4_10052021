@@ -19,6 +19,10 @@ Visual Studio Code
 
 Google Lighthouse et Wave (Web Accessibility Evaluation Tool)
 
+### Version originale :
+
+https://okamixtape.github.io/Version_Originale_LCA/index.html
+
 ### Version optimisée : 
 
 https://okamixtape.github.io/LoupAubour_4_10052021/index.html
