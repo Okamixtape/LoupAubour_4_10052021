@@ -661,6 +661,10 @@ a {
     max-width: 1000px;
 }
 
+.change {
+    background: #f3976c;
+}
+
 .hero-bloc-text {
     font-size: 36px;
 }
