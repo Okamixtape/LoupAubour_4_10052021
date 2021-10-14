@@ -25,7 +25,7 @@ https://okamixtape.github.io/Version_Originale_LCA/index.html
 
 ### Version optimisée : 
 
-https://okamixtape.github.io/LoupAubour_4_10052021/index.html
+https://okamixtape.github.io/Website_SEO_Optimization/index.html
 
 ## Coordonnées :
 
