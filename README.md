@@ -30,5 +30,4 @@ https://okamixtape.github.io/Website_SEO_Optimization/index.html
 ## Coordonnées :
 
 Vous pouvez me contacter directement en m'envoyant un [email](mailto:loup.aubour@gmail.com)
-
-ou si vous faites partie de la communauté OpenClassrooms en consultant mon [profil workplace](https://openclassrooms.workplace.com/profile.php?id=100064072264487)
+ou si vous voulez en savoir plus consultez mon [profil LinkedIn](https://www.linkedin.com/in/loup-aubour-front-end-dev/) !
